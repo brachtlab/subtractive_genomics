@@ -13,14 +13,14 @@ Repository of custom python scripts used in "Novel Sequence Discovery by Subtrac
 
 ## Non-matching_sequences.py
 
-./Non-matching_sequences.py <assembly.fasta> <blast_outfmt6.txt>
+`./Non-matching_sequences.py <assembly.fasta> <blast_outfmt6.txt>`
 
 
 ## removeUnmapped.py
 
-./removeUnmapped.py <mapped.sam>
+`./removeUnmapped.py <mapped.sam>`
 
 
 ## getContig.py
 
-./getContig.py <assembly.py> <contigs_to_get.txt>
+`./getContig.py <assembly.py> <contigs_to_get.txt>`
