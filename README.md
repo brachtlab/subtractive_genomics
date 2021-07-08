@@ -5,7 +5,9 @@ Repository of custom python scripts used in "Novel Sequence Discovery by Subtrac
 ## Installation
 
 -Clone the repository.
+
 -Dependencies:
+	
 	-Python (Biopython)
 
 
